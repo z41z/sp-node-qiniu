@@ -1,0 +1,15 @@
+{
+  "name": "sp-node-qiniu",
+  "version": "1.0.0",
+  "description": "init Upload files to Qiniu by node-qiniu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-qiniu": "^6.2.0",
+    "qiniu": "^7.2.1"
+  }
+}
